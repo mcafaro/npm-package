@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mcafaro/npm-package/issues"
   },
-  "homepage": "https://github.com/mcafaro/npm-package#readme"
+  "homepage": "https://github.com/mcafaro/npm-package#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
 }
